@@ -1,0 +1,7 @@
+{
+"-9SDZ": "{PLOVER:INIT_CONTEXT_AWARE}",
+"-BLGTSZ": "{PLOVER:LAUNCH_IN_BG:google-chrome --window-position=100,100 --window-size=600,400 \"http://www.google.com/search?q=$$LAST_STROKE\"}",
+"-LGTSDZ": "{PLOVER:PRINT_LAST_WORDS:3}",
+"KEUBG": "{#control(d)}",
+"PWR*ET": "Elbereth{#return}"
+}
